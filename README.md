@@ -1,59 +1,55 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080817,35:28104C,70:14264B,100:080817&text=MAKENZIE%20AGRAZAL&fontSize=43&fontColor=EAD9FF&fontAlignY=38&desc=STUDENT%20%7C%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=13&descAlignY=58&animation=fadeIn&stroke=9B70FF&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:070711,24:160D35,52:29145A,78:10264A,100:070711&text=MAKENZIE%20AGRAZAL&fontSize=44&fontColor=F4E9FF&fontAlignY=38&desc=SOFTWARE%20%2F%20ROBOTICS%20%2F%20CREATIVE%20TECHNOLOGY&descSize=13&descAlignY=60&animation=fadeIn" alt="Makenzie Agrazal — developer profile banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=800&color=C7A7FF&center=true&vCenter=true&width=700&lines=Turning+curiosity+into+technology.;Building+ideas+into+real+projects.;Exploring+the+intersection+of+logic+and+creativity." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=800&color=C7A7FF&center=true&vCenter=true&width=720&lines=Building+ideas+into+real+projects.;Exploring+software%2C+robotics%2C+and+design.;Curiosity+is+the+start+of+every+discovery." alt="Animated introduction" />
 
 <br/><br/>
 
-<a href="https://github.com/ct24makenzieagrazal?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-17102B?style=for-the-badge&logo=github&logoColor=D8B4FE" alt="Explore projects" />
-</a>
-<a href="mailto:makenzieagrazal@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-17102B?style=for-the-badge&logo=gmail&logoColor=E8C477" alt="Contact" />
-</a>
+<a href="https://github.com/ct24makenzieagrazal?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-120D25?style=for-the-badge&labelColor=120D25&color=9B70FF" alt="Projects" /></a>
+<a href="mailto:makenzieagrazal@gmail.com"><img src="https://img.shields.io/badge/CONTACT-120D25?style=for-the-badge&labelColor=120D25&color=D8B46A" alt="Contact" /></a>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 01 — ABOUT ME
-
-*Technology, imagination, and the curiosity to build something new.*
-
-</div>
-
-I'm **Makenzie Agrazal**, a technology student interested in programming, robotics, and creative problem-solving.
-
-I enjoy exploring new technologies, developing practical projects, and learning through experimentation.
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### Areas of Interest
+## 01 / PROFILE
 
-- Software development
-- Web development
-- Robotics and engineering
-- Embedded systems
-- Creative technology
+I'm **Makenzie Agrazal**, a technology student interested in software development, robotics, and creative problem-solving.
+
+I like learning by building, testing ideas, and turning technical challenges into practical projects.
+
+**CURRENT INTERESTS**
+
+- Software and web development
+- Robotics and embedded systems
+- Hardware experiments
+- Visual design and creative technology
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### My Mindset
+<div align="center">
 
-- Learn by building
-- Experiment and improve
-- Solve problems creatively
-- Explore unfamiliar technologies
-- Turn ideas into real projects
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="115" alt="Pikachu pixel sprite" />
 
+### CURRENT MODE
+
+`LEARNING`  
+`BUILDING`  
+`EXPLORING`
+
+<br/>
+
+<img src="https://img.shields.io/badge/LOCATION-PANAMA-17102B?style=flat-square&labelColor=17102B&color=7152A3" alt="Location: Panama" />
+
+</div>
 </td>
 </tr>
 </table>
@@ -62,15 +58,13 @@ I enjoy exploring new technologies, developing practical projects, and learning 
 
 <div align="center">
 
-## 02 — MY CONSTELLATION
+## 02 / CONSTELLATION ARCHIVE
 
-*An illustration where every point connects to a bigger idea.*
+*One point at a time. One idea at a time.*
 
-<img src="./pokemon_constellation_points.svg" width="100%" alt="Pokémon constellation artwork created for Makenzie Agrazal" />
+<img src="./pokemon_constellation_points.svg" width="100%" alt="A constellation-style Pokémon illustration created for Makenzie Agrazal" />
 
-<br/>
-
-<sub>POINTS · LIGHT · IMAGINATION</sub>
+<sub>ORBITAL STUDY 001 · DOT MATRIX · PERSONAL COLLECTION</sub>
 
 </div>
 
@@ -78,85 +72,77 @@ I enjoy exploring new technologies, developing practical projects, and learning 
 
 <div align="center">
 
-## 03 — TECHNOLOGY STACK
+## 03 / TECHNOLOGY SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=python,html,css,cpp,arduino&theme=dark" alt="Python, HTML, CSS, C++ and Arduino" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PROGRAMMING-17102B?style=for-the-badge&color=8B5CF6" alt="Programming" />
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-17102B?style=for-the-badge&color=3877C7" alt="Web development" />
-<img src="https://img.shields.io/badge/ROBOTICS-17102B?style=for-the-badge&color=9B70FF" alt="Robotics" />
-<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-17102B?style=for-the-badge&color=D8B46A" alt="Embedded systems" />
+<img src="https://img.shields.io/badge/01_PROGRAMMING-100C20?style=for-the-badge&color=8C6BDB" alt="Programming" />
+<img src="https://img.shields.io/badge/02_WEB-100C20?style=for-the-badge&color=3D76B8" alt="Web development" />
+<img src="https://img.shields.io/badge/03_ROBOTICS-100C20?style=for-the-badge&color=AA8AE8" alt="Robotics" />
+<img src="https://img.shields.io/badge/04_EMBEDDED-100C20?style=for-the-badge&color=CBA85F" alt="Embedded systems" />
 
 </div>
 
 ---
 
-## 04 — FEATURED PROJECTS
+## 04 / SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ct24makenzieagrazal/Esp-32-CAM">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:17102B,100:233B70&text=ESP-32-CAM&fontSize=25&fontColor=E4D5FF" alt="ESP-32-CAM project banner" />
-</a>
+<a href="https://github.com/ct24makenzieagrazal/Esp-32-CAM"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111022,100:253B69&text=ESP-32-CAM&fontSize=24&fontColor=E6D9FF" alt="ESP-32-CAM" /></a>
 
 ### Embedded Vision
 
-Exploring the ESP32-CAM module, image capture, camera functionality, and connected devices.
+Exploring the ESP32-CAM module, image capture, and connected hardware.
 
-**Focus:** Embedded systems and hardware.
+<sub>DOMAIN / EMBEDDED SYSTEMS</sub>
 
-[VIEW REPOSITORY →](https://github.com/ct24makenzieagrazal/Esp-32-CAM)
+[OPEN PROJECT →](https://github.com/ct24makenzieagrazal/Esp-32-CAM)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ct24makenzieagrazal/WRO">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101A39,100:45266D&text=WRO&fontSize=29&fontColor=D8D5FF" alt="WRO project banner" />
-</a>
+<a href="https://github.com/ct24makenzieagrazal/WRO"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111022,100:45266D&text=WRO&fontSize=27&fontColor=E6D9FF" alt="WRO" /></a>
 
 ### Robotics Journey
 
-Documentation of four months of work, including project development, technical challenges, and teamwork.
+Documentation of four months of work, project development, technical challenges, and teamwork.
 
-**Focus:** Robotics and engineering.
+<sub>DOMAIN / ROBOTICS</sub>
 
-[VIEW REPOSITORY →](https://github.com/ct24makenzieagrazal/WRO)
+[OPEN PROJECT →](https://github.com/ct24makenzieagrazal/WRO)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ct24makenzieagrazal/Reto-HTML-CSS">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101326,100:214C72&text=HTML%20%2F%20CSS&fontSize=24&fontColor=C4E6FF" alt="HTML and CSS project banner" />
-</a>
+<a href="https://github.com/ct24makenzieagrazal/Reto-HTML-CSS"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:101326,100:214C72&text=HTML%20%2F%20CSS&fontSize=23&fontColor=D2ECFF" alt="HTML and CSS" /></a>
 
 ### Web Foundations
 
-Practicing page structure, styling, layouts, and front-end development through hands-on challenges.
+Practicing page structure, layouts, styling, and front-end fundamentals through challenges.
 
-**Focus:** HTML and CSS.
+<sub>DOMAIN / WEB DEVELOPMENT</sub>
 
-[VIEW REPOSITORY →](https://github.com/ct24makenzieagrazal/Reto-HTML-CSS)
+[OPEN PROJECT →](https://github.com/ct24makenzieagrazal/Reto-HTML-CSS)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ct24makenzieagrazal/Prueba1">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:21113E,100:40265E&text=EXPERIMENTS&fontSize=22&fontColor=F0D9FF" alt="Experiments project banner" />
-</a>
+<a href="https://github.com/ct24makenzieagrazal/Prueba1"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:20102F,100:3B285D&text=EXPERIMENTS&fontSize=22&fontColor=F0DFFF" alt="Experiments" /></a>
 
 ### Learning Lab
 
-A space for practice, experimentation, and exploring new ideas through technology.
+A place for practice, experiments, and discovering new approaches to technology.
 
-**Focus:** Learning and development.
+<sub>DOMAIN / EXPLORATION</sub>
 
-[VIEW REPOSITORY →](https://github.com/ct24makenzieagrazal/Prueba1)
+[OPEN PROJECT →](https://github.com/ct24makenzieagrazal/Prueba1)
 
 </td>
 </tr>
@@ -172,15 +158,14 @@ A space for practice, experimentation, and exploring new ideas through technolog
 
 <div align="center">
 
-## 05 — GITHUB STATISTICS
+## 05 / GITHUB ANALYTICS
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ct24makenzieagrazal&show_icons=true&hide_border=true&bg_color=09051A&title_color=C7A7FF&text_color=E3DDF5&icon_color=E8C477" alt="GitHub statistics" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ct24makenzieagrazal&layout=compact&hide_border=true&bg_color=09051A&title_color=C7A7FF&text_color=E3DDF5" alt="Most used programming languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ct24makenzieagrazal&show_icons=true&hide_border=true&bg_color=090817&title_color=C7A7FF&text_color=E3DDF5&icon_color=D8B46A" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ct24makenzieagrazal&layout=compact&hide_border=true&bg_color=090817&title_color=C7A7FF&text_color=E3DDF5" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=ct24makenzieagrazal&hide_border=true&background=09051A&ring=C7A7FF&fire=E8C477&currStreakLabel=C7A7FF&sideLabels=E3DDF5&dates=AAA1C5" alt="GitHub contribution streak" />
+<img width="90%" src="https://streak-stats.demolab.com?user=ct24makenzieagrazal&hide_border=true&background=090817&ring=C7A7FF&fire=D8B46A&currStreakLabel=C7A7FF&sideLabels=E3DDF5&dates=AAA1C5" alt="GitHub contribution streak" />
 
 </div>
 
@@ -188,35 +173,24 @@ A space for practice, experimentation, and exploring new ideas through technolog
 
 <div align="center">
 
-## 06 — BEYOND THE SCREEN
+## 06 / NEXT TRANSMISSION
 
-Technology is more than writing code. It is curiosity, persistence, experimentation, and the ability to discover possibilities through problem-solving.
+I want to keep learning, making, and building projects that connect software, hardware, and imagination.
 
-I'm interested in projects that connect software, hardware, and imagination.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:9B70FF,50:E8C477,100:71C8FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:9B70FF,50:D8B46A,100:71C8FF" width="100%" alt="" />
 
 <br/>
 
-### THE NEXT CHAPTER
-
-*Learn. Build. Experiment. Repeat.*
+*Learn with intention. Build with curiosity. Improve with every iteration.*
 
 <br/>
 
-<a href="mailto:makenzieagrazal@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-211044?style=for-the-badge&logo=gmail&logoColor=E8C477" alt="Get in touch" />
-</a>
-<a href="https://github.com/ct24makenzieagrazal?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-211044?style=for-the-badge&logo=github&logoColor=D8B4FE" alt="Explore my work" />
-</a>
+<a href="mailto:makenzieagrazal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-120D25?style=for-the-badge&logo=gmail&logoColor=D8B46A" alt="Email" /></a>
+<a href="https://github.com/ct24makenzieagrazal?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-120D25?style=for-the-badge&logo=github&logoColor=D8B4FE" alt="Repositories" /></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:080817,50:28104C,100:080817" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=115&color=0:080817,50:28104C,100:080817" alt="" />
 
 </div>
-
 
